@@ -1,4 +1,4 @@
-import { default as React, Component, PropTypes } from 'react';
+
 import type { AppProps } from 'next/app';
 import { DefaultTheme } from 'styled-components';
 import GlobalStyle from '../components/globalstyles';
